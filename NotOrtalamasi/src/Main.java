@@ -2,7 +2,8 @@
 public class Main {
     public static void main(String[] args) {
         int mat,fizik,kimya,tarih,muzik,turkce;
-        Scanner inp = new Scanner(System.in) ;
+        Scanner inp = new Scanner(System.in);
+
         System.out.print("Matematik Notunuz : ");
         mat = inp.nextInt() ;
 
