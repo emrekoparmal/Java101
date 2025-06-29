@@ -1,11 +1,8 @@
  import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-      // Değişkenleri Oluştur
         int mat,fizik,kimya,tarih,muzik,turkce;
-         // Scanner sınıfımızı tanımladık
-     Scanner inp = new Scanner(System.in) ;
-      // Kullanıcıdan değer alma
+        Scanner inp = new Scanner(System.in) ;
         System.out.print("Matematik Notunuz : ");
         mat = inp.nextInt() ;
 
@@ -26,7 +23,11 @@ public class Main {
 
         int toplam= (mat + tarih + turkce + fizik + kimya + muzik) ;
         double sonuc = toplam /6.0 ;
-        System.out.println("Ortalamanız : " + sonuc);
 
+        if (sonuc >= 50){
+            System.out.println(sonuc+ " ile Geçti");
+        }else {
+            System.out.println(sonuc+ " ile Kaldı");
+        }
     }
 }
