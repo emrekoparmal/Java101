@@ -1,7 +1,15 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Taksimetre");
+        int km;
+        double perkm = 2.20,total = 10  ;
+        Scanner input = new Scanner(System.in);
+        System.out.print("Mesafeyi KM Cinsinden Griniz : ");
+        km = input.nextInt();
+        total += (km * perkm);
+        total = (total <20) ? 20 : total;
+        System.out.print("Toplam Tutar :" + total);
+
+
     }
 }
