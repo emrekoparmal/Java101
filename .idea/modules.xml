@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DaireCevreAlan/DaireCevreAlan.iml" filepath="$PROJECT_DIR$/DaireCevreAlan/DaireCevreAlan.iml" />
       <module fileurl="file://$PROJECT_DIR$/DikUcgenHipotenus/DikUcgenHipotenus.iml" filepath="$PROJECT_DIR$/DikUcgenHipotenus/DikUcgenHipotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HavaSicakligiEtkinlik/HavaSicakligiEtkinlik.iml" filepath="$PROJECT_DIR$/HavaSicakligiEtkinlik/HavaSicakligiEtkinlik.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
