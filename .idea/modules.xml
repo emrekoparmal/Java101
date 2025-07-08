@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/daire/daire.iml" filepath="$PROJECT_DIR$/daire/daire.iml" />
       <module fileurl="file://$PROJECT_DIR$/manavkasa/manavkasa.iml" filepath="$PROJECT_DIR$/manavkasa/manavkasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucakbileti/ucakbileti.iml" filepath="$PROJECT_DIR$/ucakbileti/ucakbileti.iml" />
       <module fileurl="file://$PROJECT_DIR$/vki/vki.iml" filepath="$PROJECT_DIR$/vki/vki.iml" />
     </modules>
   </component>
