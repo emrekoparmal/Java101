@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/ucakbileti/ucakbileti.iml" filepath="$PROJECT_DIR$/ucakbileti/ucakbileti.iml" />
       <module fileurl="file://$PROJECT_DIR$/uslusayihesaplama/uslusayihesaplama.iml" filepath="$PROJECT_DIR$/uslusayihesaplama/uslusayihesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/vki/vki.iml" filepath="$PROJECT_DIR$/vki/vki.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yildizileucgen/yildizileucgen.iml" filepath="$PROJECT_DIR$/yildizileucgen/yildizileucgen.iml" />
     </modules>
   </component>
 </project>
